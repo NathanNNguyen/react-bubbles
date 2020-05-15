@@ -1,0 +1,22 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+  margin: auto;
+  box-shadow: .5rem .5rem 1rem #aaaaaa;
+  
+  label {
+    margin: auto;
+  }
+
+  input {
+    width: 50%;
+    margin: 1rem auto;
+  }
+
+  button {
+    width: 30%;
+    margin: auto;
+    margin-bottom: 1rem;
+  }
+}
